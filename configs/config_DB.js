@@ -1,16 +1,16 @@
 module.exports = {
     localdb: {
-        urldb : 'mongodb+srv://khanh123456:pBkHbPIb4bx1rKuZ@cluster0.ayy8a.mongodb.net/shop?retryWrites=true&w=majority',
-        dbname : "shop",
+        urldb : 'mongodb+srv://khanh123456:pBkHbPIb4bx1rKuZ@cluster0.ayy8a.mongodb.net/atn-shop?retryWrites=true&w=majority',
+        dbname : "atn-shop",
         dbusername : "",
         dbpassword : "",
     },
 
     clouddb: {
-        urldb : 'mongodb+srv://khanh123456:pBkHbPIb4bx1rKuZ@cluster0.ayy8a.mongodb.net/shop?retryWrites=true&w=majority',
-        dbname : "shop",
-        dbusername : "khanh123456",
-        dbpassword : "pBkHbPIb4bx1rKuZ",
+        urldb : 'mongodb+srv://khanh123456:pBkHbPIb4bx1rKuZ@cluster0.ayy8a.mongodb.net/atn-shop?retryWrites=true&w=majority',
+        dbname : "atn-shop",
+        dbusername : "",
+        dbpassword : "",
     }
 
 };
